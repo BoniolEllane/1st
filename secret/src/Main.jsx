@@ -1,7 +1,7 @@
 import './index.css';
 import React from 'react';
 
-function App() {
+function Main() {
   return (
     <div className="main">
       <div className="rowcon">
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default Main;
