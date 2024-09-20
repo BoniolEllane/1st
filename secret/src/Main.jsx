@@ -134,7 +134,7 @@ function Main() {
 
       <section className="togetoge">
         <div className="concol">
-          <div className="imggr2">
+          <div className="group">
             <img src={mid1} alt="" />
             <h3>NFJNJANIONFV</h3>
             <p>Sed ut unde omnis iste natus sit volur tatem accus antium laudan tium totam rem aperiam eaque ipsa ab
