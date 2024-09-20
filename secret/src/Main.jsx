@@ -8,6 +8,8 @@ import smolim2 from './placeholders/smol 2.png';
 import image3 from './placeholders/random1.png';
 import image4 from './placeholders/dedic1.png';
 import smolim3 from './placeholders/dedidacc.png';
+import mid1 from './placeholders/toge.png';
+import mid2 from './placeholders/toge1.png';
 
 
 function Main() {
@@ -127,6 +129,19 @@ function Main() {
               <li>MKDMFCKAMN</li>
             </ul>
           </div>
+        </div>
+      </section>
+
+      <section className="togetoge">
+        <div className="concol">
+          <div className="imggr2">
+            <img src={mid1} alt="" />
+            <h3>NFJNJANIONFV</h3>
+            <p>Sed ut unde omnis iste natus sit volur tatem accus antium laudan tium totam rem aperiam eaque ipsa ab
+              illo inventore veritatis et architecto vitae dicta sunt explicabo.</p>
+            <img src={mid2} alt="" />
+          </div>
+
         </div>
       </section>
     </div>
